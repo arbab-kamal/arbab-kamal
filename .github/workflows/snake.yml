@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Arbab kamal
+      - uses: arbab-kamal
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
