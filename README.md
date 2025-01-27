@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 I’m constantly learning and exploring new technologies, currently diving deeper into machine learning.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about web development, Python, JavaScript, and open-source.
-- 📫 How to reach me: [arbab-kamal@example.com](mailto:arbab-kamal@example.com)
+- 📫 How to reach me: [arbab-kamal@example.com](mailto:arbabkamal9@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🚀 Skills
